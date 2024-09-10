@@ -1,0 +1,17 @@
+    250 Arthropoda
+    214 Basidiomycota
+    110 Chlorophyta
+     96 Ascomycota
+     50 Streptophyta
+     29 Cnidaria
+     26 Chordata
+      7 Mollusca
+      6 Annelida
+      5 Porifera
+      4 Nematoda
+      2 Platyhelminthes
+      2 Echinodermata
+      2 Dinoflagellata
+      1 Spiralia
+      1 Ochrophyta
+      1 Apicomplexa

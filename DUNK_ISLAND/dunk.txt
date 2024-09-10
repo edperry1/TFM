@@ -1,0 +1,9 @@
+     49 Chlorophyta
+     38 Cnidaria
+     19 Streptophyta
+     10 Dinoflagellata
+      6 Apicomplexa
+      4 Ascomycota
+      1 Haptophyta_X
+      1 Ciliophora
+      1 Arthropoda

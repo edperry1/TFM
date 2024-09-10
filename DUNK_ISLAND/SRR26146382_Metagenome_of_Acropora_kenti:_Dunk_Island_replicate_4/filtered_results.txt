@@ -1,0 +1,2 @@
+k141_158784	GCA_015345685|GCA_015345685|JADLIS010000480.1/6026-426;size=1|Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida;Candida_albicans	97.800	409	9	0	6	414	2369	1961	0.0	706
+k141_158784	GCA_003454735|GCA_003454735|CP032012.1/401523-395538;size=2|Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Candida;Candida_albicans	97.324	411	9	1	6	414	2372	1962	0.0	697

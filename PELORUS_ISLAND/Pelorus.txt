@@ -1,0 +1,11 @@
+     54 Cnidaria
+     37 Chlorophyta
+     28 Streptophyta
+     12 Basidiomycota
+     10 Mollusca
+      7 Ascomycota
+      6 Dinoflagellata
+      4 Chordata
+      4 Arthropoda
+      3 Ochrophyta
+      1 Rhodophyta

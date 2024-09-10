@@ -1,0 +1,9 @@
+    325 Streptophyta
+     56 Cnidaria
+     42 Chordata
+     13 Basidiomycota
+      7 Chlorophyta
+      7 Ascomycota
+      7 Arthropoda
+      3 Dinoflagellata
+      1 Ochrophyta
